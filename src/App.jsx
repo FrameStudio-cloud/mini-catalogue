@@ -4,6 +4,7 @@ import Footer from './components/Footer'
 import Hero from './components/Hero'
 import Navbar from './components/Navbar'
 import ProductGallery from './components/ProductGallery'
+import WhatsAppFloat from './components/WhatsAppFloat'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <About />
       <Footer />
       <BackToTop />
+      <WhatsAppFloat />
     </div>
   )
 }
