@@ -56,8 +56,9 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/mini-catalogue.git
+git clone https://github.com/FrameStudio-cloud/mini-catalogue.git
 cd mini-catalogue
+
 ```
 
 ### 2. Install dependencies
